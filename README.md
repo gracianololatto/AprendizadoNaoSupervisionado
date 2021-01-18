@@ -11,14 +11,25 @@ Obs.: após eu ter feito a instalação, localizei a opção de fazer direto no 
 
 # Resultados Acurácia
 Resultados conforme solicitado no exercício:
+
  10 componentes principais, acurácia: 95.12%
+ 
  11 componentes principais, acurácia: 95.93%
+ 
  12 componentes principais, acurácia: 95.93%
+ 
  13 componentes principais, acurácia: 95.12%
+ 
  14 componentes principais, acurácia: 95.93%
+ 
  15 componentes principais, acurácia: 95.12%
+ 
  16 componentes principais, acurácia: 95.12%
+ 
  17 componentes principais, acurácia: 95.12%
+ 
  18 componentes principais, acurácia: 95.93%
+ 
  19 componentes principais, acurácia: 95.12%
+ 
  20 componentes principais, acurácia: 95.12%
